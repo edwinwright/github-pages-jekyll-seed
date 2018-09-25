@@ -1,41 +1,16 @@
 ---
 layout: default
+title: Using a Markdown file to generate content
 ---
 
-## Welcome to the Homepage - Whattup
+## {{page.title}}
 
-You can use the [editor on GitHub](https://github.com/edwinwright/learn-gtm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra magna rutrum turpis vestibulum, eget interdum augue consequat. Duis iaculis velit enim, id fringilla lacus mollis et. Nam eget fermentum magna, blandit luctus turpis. Integer laoreet nunc ut ipsum placerat, vitae dignissim nisi euismod. Sed at orci gravida, rhoncus tortor in, varius leo. Nam rutrum orci ut felis scelerisque, vel semper tellus molestie. Pellentesque vulputate fringilla nulla ut interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ut in orci purus. Praesent eget tincidunt nisl. Aliquam efficitur pulvinar risus, id posuere eros imperdiet quis. Phasellus egestas ex ex, a suscipit ex malesuada sed. Proin sagittis, ex id interdum vulputate, nunc velit elementum leo, quis tincidunt leo dui eu risus. Pellentesque porttitor elit nec mi dignissim, vel bibendum felis mollis. Ut tincidunt, urna quis elementum cursus, lacus ante molestie lectus, sed ultrices mi libero feugiat orci. Suspendisse in orci iaculis, vehicula ligula sed, molestie tellus. Sed volutpat blandit molestie. Nunc arcu lacus, ornare ut consectetur eu, vehicula at erat. Vestibulum quis porttitor leo.
 
-### Markdown
+Nullam nisi lectus, ornare eget sollicitudin id, sodales vitae orci. Phasellus ac sem purus. Nulla facilisi. Morbi luctus ante non justo feugiat sodales. Pellentesque sit amet posuere lectus. Proin condimentum nisi volutpat eros consectetur porta. Curabitur mauris tortor, accumsan a accumsan quis, efficitur ut massa. Nam at congue ante. Praesent at suscipit quam, quis tempor neque. Duis fringilla tempus ullamcorper. Aliquam commodo varius turpis, vitae placerat enim vestibulum et. Nunc aliquam dui elementum, dignissim lacus et, gravida magna. Phasellus ac magna sed mauris commodo scelerisque.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nam ut nulla suscipit, tristique sem elementum, pellentesque nibh. Proin nec suscipit urna, at luctus nulla. Donec placerat, odio vel feugiat mollis, turpis eros sagittis enim, quis dignissim libero augue at dui. Maecenas et lacus eu metus laoreet egestas. Integer cursus porttitor velit in commodo. Duis vulputate orci eu augue volutpat, in volutpat massa luctus. Praesent efficitur, magna non rhoncus mattis, tortor metus faucibus est, sed sagittis mi augue vel dui. Sed sit amet mattis velit, vitae finibus libero. Pellentesque imperdiet dictum ex, ac venenatis massa fermentum ut. Quisque consectetur, dui ultricies hendrerit faucibus, tellus dolor condimentum tellus, sit amet ultrices turpis eros volutpat lacus. Nulla aliquet eros molestie ligula aliquam dapibus. Cras posuere eu leo in porta. Ut varius leo lobortis nunc pretium pretium. Pellentesque pellentesque tristique lacinia. In tortor ante, varius nec ex vel, gravida lobortis eros.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edwinwright/learn-gtm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nunc auctor eros ut nisl euismod hendrerit. Sed at est finibus, imperdiet leo eget, tincidunt leo. Mauris purus mi, sagittis sed laoreet ut, ornare at eros. Aenean erat sem, congue a velit a, maximus sagittis dui. Etiam vel velit lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta vel ipsum quis varius. Quisque congue purus quis feugiat commodo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc libero arcu, gravida ut ipsum quis, accumsan placerat lectus. Mauris ex metus, pulvinar ac justo et, facilisis convallis sem. Vivamus eget massa blandit, condimentum libero ut, ultrices elit. Proin sodales diam justo, vel laoreet ipsum convallis a.
